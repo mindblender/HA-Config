@@ -1,0 +1,12 @@
+House:
+  entities:
+    - group.living_room
+    - group.dining_room
+living_room:
+  entities:
+    - light.living_room_lamp
+    - light.table_lamp
+dining_room:
+  entities:
+    - light.dining_1
+    - light.dining_2
