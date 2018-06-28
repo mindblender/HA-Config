@@ -11,7 +11,7 @@ homeassistant:
   # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
   time_zone: !secret location_time_zone
   
-  customize: !include customize.yaml
+  #customize: !include customize.yaml
 
 #logger:
 #  default: critical
