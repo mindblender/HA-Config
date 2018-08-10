@@ -1,6 +1,6 @@
 #### SUN BASED ####
-- !include automation/sunset_livingroom_lights.yaml
+- !include automations/sunset_livingroom_lights.yaml
 
 #### TIME BASED ####
-- !include automation/time_weekday_livingroom_lights_off.yaml
-- !include automation/time_weekend_livingroom_lights_off.yaml
+- !include automations/time_weekday_livingroom_lights_off.yaml
+- !include automations/time_weekend_livingroom_lights_off.yaml
